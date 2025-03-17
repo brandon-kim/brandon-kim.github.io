@@ -6,7 +6,7 @@ A performant, accessible, progressive React portfolio template that uses the [Gi
 
 Add your GitHub username once and all of your info will automatically be updated. Deploy to GitHub pages in a few simple steps.
 
-## [Live Demo](https://mshuber1981.github.io/github-react-portfolio-template/#/)
+## [MY Demo](https://brandon-kim.github.io)
 
 [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 
