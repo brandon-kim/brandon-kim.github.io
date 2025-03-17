@@ -94,7 +94,7 @@ A helpful guide for Create React App deployments with GitHub Pages can be found 
 
 ## 질문 2: 로컬에서 deploy 를 실행했는데, 이게 문제인가?
 
-로컬에서 `npm run deploy`를 실행했을 때 문제가 발생할 가능성이 있습니다. 현재 `package.json`의 `deploy` 스크립트를 보면, 다음과 같이 설정되어 있습니다:
+🚨 로컬에서 `npm run deploy`를 실행했을 때 문제가 발생할 가능성이 있습니다. 현재 `package.json`의 `deploy` 스크립트를 보면, 다음과 같이 설정되어 있습니다:
 
 ```json
 "deploy": "gh-pages -b main -d build"
@@ -108,8 +108,8 @@ A helpful guide for Create React App deployments with GitHub Pages can be found 
 
 ### 해결 방법
 1. **배포 브랜치를 분리**:
-   - `main` 브랜치는 원본 코드를 유지하고, `gh-pages` 브랜치를 배포 전용으로 사용하세요.
-   - package.json의 `deploy` 스크립트를 다음과 같이 수정하세요:
+   - 🚨 `main` 브랜치는 원본 코드를 유지하고, `gh-pages` 브랜치를 배포 전용으로 사용하세요.
+   - 🚨 package.json의 `deploy` 스크립트를 다음과 같이 수정하세요:
      ```json
      "deploy": "gh-pages -b gh-pages -d build"
      ```
