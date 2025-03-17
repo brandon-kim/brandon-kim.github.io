@@ -1,8 +1,10 @@
 # [MY Demo](https://brandon-kim.github.io)
 
-이 페이지를 읽고 deploy 했는데, 작업 코드가 없어지는 상태가 되었다.
-A helpful guide for Create React App deployments with GitHub Pages can be found [here](https://create-react-app.dev/docs/deployment#github-pages).
+A helpful guide for Create React App deployments with GitHub Pages can be found [here](https://create-react-app.dev/docs/deployment#github-pages).  
 
+이 페이지를 읽고 deploy 했는데, 작업 코드가 없어지는 상태가 되었다.
+
+## 간단 요약
 - `main` 브랜치는 원본 코드를 유지하고, `gh-pages` 브랜치를 배포 전용으로 사용하세요.
 - package.json의 `deploy` 스크립트를 다음과 같이 수정하세요:
   ```json
