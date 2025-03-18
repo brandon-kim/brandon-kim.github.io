@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.1a3ab3c0.css",
-    "main.js": "/static/js/main.b7147482.js",
-    "static/media/hero-light.jpg": "/static/media/hero-light.78b77836d8aee4d7d3cb.jpg",
+    "main.js": "/static/js/main.5f9fc944.js",
+    "static/media/mesh_network_ani_square.jpg": "/static/media/mesh_network_ani_square.35bfaa77fee598fac3f6.jpg",
     "static/media/mesh_network_moe.jpg": "/static/media/mesh_network_moe.b5fd4672d9d3e999b60d.jpg",
     "service-worker.js": "/service-worker.js",
     "static/media/GH.svg": "/static/media/GH.b9e9a9aa6f05e9dfe5dcb8991bda3e4d.svg",
@@ -10,10 +10,10 @@
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.1a3ab3c0.css.map": "/static/css/main.1a3ab3c0.css.map",
-    "main.b7147482.js.map": "/static/js/main.b7147482.js.map"
+    "main.5f9fc944.js.map": "/static/js/main.5f9fc944.js.map"
   },
   "entrypoints": [
     "static/css/main.1a3ab3c0.css",
-    "static/js/main.b7147482.js"
+    "static/js/main.5f9fc944.js"
   ]
 }
