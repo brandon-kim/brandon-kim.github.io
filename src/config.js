@@ -49,13 +49,13 @@ export const skillData = [
   },
   {
     id: 2,
-    skill: <Icon icon="ix:mdi:language-python" className="display-4" />,
+    skill: <Icon icon="mdi:language-python" className="display-4" />,
     name: "Python",
   },
   {
     id: 3,
-    skill: <Icon icon="ix:mdi:language-java" className="display-4" />,
-    name: "Python",
+    skill: <Icon icon="mdi:language-java" className="display-4" />,
+    name: "Java",
   },
   {
     id: 4,
