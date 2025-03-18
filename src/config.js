@@ -5,7 +5,7 @@ import { Icon } from "@iconify/react";
 // import newLogo from "./images/yourFileName"
 
 // Hero Images (add your images to the /images directory with the same names)
-import HeroLight from "./images/hero-light.jpg";
+import HeroLight from "./images/mesh_network_ani_square.jpg";
 import HeroDark from "./images/mesh_network_moe.jpg";
 
 // Projects Images (add your images to the images directory and import below)
